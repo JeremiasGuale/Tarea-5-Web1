@@ -1,0 +1,8 @@
+<servlet>
+    <servlet-name>FormularioServlet</servlet-name>
+    <servlet-class>com.example.FormularioServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>FormularioServlet</servlet-name>
+    <url-pattern>/formulario</url-pattern>
+</servlet-mapping>
